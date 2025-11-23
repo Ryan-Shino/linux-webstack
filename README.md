@@ -44,7 +44,7 @@ Runner restarts the Systemd service automatically.
 ## Deployment Commands
 Commands used to build the stack manually:
 
-Bash```
+```bash
 # Build the image
 docker build -t webstack-project .
 
